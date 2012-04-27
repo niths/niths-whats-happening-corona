@@ -1,0 +1,1 @@
+Simple app showing how to do GET requests in Corona
